@@ -1,0 +1,32 @@
+aid: indian-mutual-fund
+name: Indian Mutual Fund
+description: "Get complete history of India Mutual Funds Data"
+url: https://www.mfapi.in/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Indian Mutual Fund
+    description: "Get complete history of India Mutual Funds Data"
+    humanURL: https://www.mfapi.in/
+    baseURL: https://www.mfapi.in/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://www.mfapi.in/
+common:
+  - type: Website
+    url: https://www.mfapi.in/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
