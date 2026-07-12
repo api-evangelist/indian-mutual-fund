@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.mfapi.in/
 common:
+  - type: DomainSecurity
+    url: security/indian-mutual-fund-domain-security.yml
   - type: Website
     url: https://www.mfapi.in/
   - type: PublicAPIsListing
