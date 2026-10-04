@@ -39,7 +39,6 @@ apis:
   - name: Indian Mutual Fund
     description: "Get complete history of India Mutual Funds Data"
     humanURL: https://www.mfapi.in/
-    baseURL: https://www.mfapi.in/
     tags:
       - Finance
     properties:
